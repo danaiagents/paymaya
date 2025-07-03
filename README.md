@@ -161,3 +161,13 @@ The project includes unit tests for the data, domain, and presentation layers.
 - **`mockito`** is used to create mock objects for dependencies.
 - **`bloc_test`** is used to test the `WalletCubit`.
 - Fixtures are used to provide mock data for tests. They are located in the `test/fixtures` directory.
+
+## 9. Screenshots
+
+| Wallet | Wallet (Hidden Amount) | Send Money |
+| --- | --- | --- |
+| ![Wallet](screenshorts/1_wallet.png) | ![Wallet (Hidden Amount)](screenshorts/2_wallet_hide_amount.png) | ![Send Money](screenshorts/3_send_money.png) |
+
+| Success Payment | Error Payment | Transactions |
+| --- | --- | --- |
+| ![Success Payment](screenshorts/4_success_payment.png) | ![Error Payment](screenshorts/5_error_payment.png) | ![Transactions](screenshorts/6_tranasations.png) |
