@@ -166,8 +166,8 @@ The project includes unit tests for the data, domain, and presentation layers.
 
 | Wallet | Wallet (Hidden Amount) | Send Money |
 | --- | --- | --- |
-| ![Wallet](screenshorts/1_wallet.png) | ![Wallet (Hidden Amount)](screenshorts/2_wallet_hide_amount.png) | ![Send Money](screenshorts/3_send_money.png) |
+| ![Wallet](https://github.com/danaiagents/paymaya/blob/master/screenshorts/1_wallet.png?raw=true) | ![Wallet (Hidden Amount)](https://github.com/danaiagents/paymaya/blob/master/screenshorts/2_wallet_hide_amount.png?raw=true) | ![Send Money](https://github.com/danaiagents/paymaya/blob/master/screenshorts/3_send_money.png?raw=true) |
 
 | Success Payment | Error Payment | Transactions |
 | --- | --- | --- |
-| ![Success Payment](screenshorts/4_success_payment.png) | ![Error Payment](screenshorts/5_error_payment.png) | ![Transactions](screenshorts/6_tranasations.png) |
+| ![Success Payment](https://github.com/danaiagents/paymaya/blob/master/screenshorts/4_success_payment.png?raw=true) | ![Error Payment](https://github.com/danaiagents/paymaya/blob/master/screenshorts/5_error_payment.png?raw=true) | ![Transactions](https://github.com/danaiagents/paymaya/blob/master/screenshorts/6_tranasations.png?raw=true) |
