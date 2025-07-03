@@ -1,6 +1,57 @@
-# PayMaya Application - Technical Documentation
+# PayMaya Application
 
-## 1. Overview
+A Flutter project for a simple digital wallet application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+### Prerequisites
+
+- Flutter SDK: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+- A code editor like VS Code or Android Studio with the Flutter plugin.
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/danaiagents/paymaya.git
+    cd paymaya
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+
+### Running the Application
+
+#### Android
+
+1.  Make sure you have an Android emulator running or a physical device connected.
+2.  Run the following command:
+    ```bash
+    flutter run
+    ```
+
+#### iOS
+
+1.  Make sure you have the iOS simulator running or a physical device connected.
+2.  Open the project in Xcode:
+    ```bash
+    open ios/Runner.xcworkspace
+    ```
+3.  Select your device and run the app from Xcode.
+    Alternatively, you can run the following command from your terminal:
+    ```bash
+    flutter run
+    ```
+
+---
+
+## Technical Documentation
+
+### 1. Overview
 
 This document provides a technical overview of the PayMaya Flutter application. It is intended for developers to understand the project structure, architecture, and implementation details.
 
