@@ -9,7 +9,7 @@ class AppStrings {
   static const String error = 'Error';
   static const String moneySentSuccessfully = 'Money sent successfully!';
   static const String invalidAmount = 'Invalid amount';
-  static const String activity = 'Activity';
+  static const String activity = 'Transactions';
   static const String noTransactionsYet = 'No transactions yet.';
   static const String ok = 'OK';
   static const String sent = 'Sent';

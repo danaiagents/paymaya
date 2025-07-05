@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       create: (_) => di.sl<WalletCubit>()..loadWallet(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Pay Maya',
+        title: 'PayMaya',
         theme: ThemeData(
           scaffoldBackgroundColor: const Color(0xFF121712),
           primarySwatch: Colors.blue,
